@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# --- Google Test & generic out-of-tree builds ---
+/build/
+/Debug/
+/Release/
+/googletest/build/
+/googletest/Debug/
+/googletest/Release/
